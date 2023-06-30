@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+Bem+Vindo(a)+ao+meu+Github!;Sou+desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+Bem+Vindo(a)+ao+meu+Github!;Sou+Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 
 

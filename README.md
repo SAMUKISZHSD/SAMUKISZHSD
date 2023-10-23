@@ -21,7 +21,7 @@
 
    
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mysql,firebase,react,ts,java,nodejs,aws,git,ai,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,mysql,firebase,react,ts,java,nodejs,aws,git,c,ai,figma&theme=dark)](https://skills.thijs.gg)
 
  </div>
 <div>
